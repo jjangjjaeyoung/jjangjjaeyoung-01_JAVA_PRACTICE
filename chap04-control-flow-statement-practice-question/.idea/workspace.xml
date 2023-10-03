@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aee28c43-4441-44fa-bc99-28c5b17d8ae8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-statement-practice-answer/src/main/java/com/ohgiraffers/section01/conditional/level02/normal/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-statement-practice-answer/src/main/java/com/ohgiraffers/section01/conditional/level02/normal/Application3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-statement-practice-answer/src/main/java/com/ohgiraffers/section01/conditional/level03/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-statement-practice-answer/src/main/java/com/ohgiraffers/section01/conditional/level03/Application10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-statement-practice-answer/src/main/java/com/ohgiraffers/section01/conditional/level03/Application11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-statement-practice-answer/src/main/java/com/ohgiraffers/section01/conditional/level03/Application12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-statement-practice-answer/src/main/java/com/ohgiraffers/section01/conditional/level03/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-statement-practice-answer/src/main/java/com/ohgiraffers/section01/conditional/level03/Application3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-statement-practice-answer/src/main/java/com/ohgiraffers/section01/conditional/level03/Application4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-statement-practice-answer/src/main/java/com/ohgiraffers/section01/conditional/level03/Application5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-statement-practice-answer/src/main/java/com/ohgiraffers/section01/conditional/level03/Application6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-statement-practice-answer/src/main/java/com/ohgiraffers/section01/conditional/level03/Application7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-statement-practice-answer/src/main/java/com/ohgiraffers/section01/conditional/level03/Application8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-statement-practice-answer/src/main/java/com/ohgiraffers/section01/conditional/level03/Application9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap03-method-and-api-practice-answer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap03-method-and-api-practice-answer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04-control-flow-statement-practice-answer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04-control-flow-statement-practice-answer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04-control-flow-statement-practice-answer/src/main/java/com/ohgiraffers/section01/conditional/level01/basic/Application4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04-control-flow-statement-practice-answer/src/main/java/com/ohgiraffers/section01/conditional/level01/basic/Application4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04-control-flow-statement-practice-answer/src/main/java/com/ohgiraffers/section01/conditional/level01/basic/Application5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04-control-flow-statement-practice-answer/src/main/java/com/ohgiraffers/section01/conditional/level01/basic/Application5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04-control-flow-statement-practice-answer/src/main/java/com/ohgiraffers/section01/conditional/level02/normal/Application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04-control-flow-statement-practice-answer/src/main/java/com/ohgiraffers/section01/conditional/level02/normal/Application1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/conditional/level03/Application6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/conditional/level03/Application6.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2Vvam9JdRkrDgm7rE31yqaY0s9U" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "C:/dev/01_lectureSource/01_JAVA_PRACTICE/chap04-control-flow-statement-practice-question",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "show.migrate.to.gradle.popup": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aee28c43-4441-44fa-bc99-28c5b17d8ae8" name="Changes" comment="" />
+      <created>1695719164974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695719164974</updated>
+      <workItem from="1695719166149" duration="1356000" />
+      <workItem from="1695798998277" duration="1074000" />
+      <workItem from="1696003482978" duration="1083000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
